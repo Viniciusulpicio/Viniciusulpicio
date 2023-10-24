@@ -23,6 +23,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/-Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 
@@ -32,8 +33,8 @@
 
   
 ### Studying in this moment:
-![TypeScript](..)&nbsp;
-!![HTML](...)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
 <div align="center">
 
