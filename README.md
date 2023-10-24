@@ -35,7 +35,7 @@
 
   
 ### Studying in this moment:
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
+![TypeScript]()&nbsp;
 !![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <div align="center">
