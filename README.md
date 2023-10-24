@@ -16,7 +16,7 @@
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C++]([https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social](https://simpleicons.org/icons/cplusplus.svg))&nbsp;
+![C++](.....)&nbsp;
 
 
 ### Tools:
