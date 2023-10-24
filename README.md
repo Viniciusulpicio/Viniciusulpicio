@@ -33,8 +33,8 @@
 
   
 ### Studying in this moment:
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
-![HTML](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;
+<!-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
+![HTML](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;  -->
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
