@@ -35,16 +35,18 @@
 
   
 ### Studying in this moment:
-![TypeScript]()&nbsp;
-!![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TypeScript](..)&nbsp;
+!![HTML](...)&nbsp;
 
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<div align="center">
 <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:viniciusulpicio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
   
 
