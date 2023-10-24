@@ -13,7 +13,7 @@
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C++]() &nbsp;
+![C ++]( )&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
