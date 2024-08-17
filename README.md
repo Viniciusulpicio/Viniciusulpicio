@@ -7,9 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-### Main skills:
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+### Main Skills:
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -34,6 +33,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
+  ![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)&nbsp;
+
 
 ### Let's Connect:
 <div align="center">
