@@ -39,13 +39,17 @@
 
 ### Let's Connect:
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-lima-sulpicio-935b16288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciusulpicio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-lima-sulpicio-935b16288/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:viniciusulpicio@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/47978460-4246-4132-bae7-a30decdd2c00?locale=pt_BR" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
-</a>
-
+  </a>
 </div>
+
 
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
