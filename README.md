@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Vinicius+Lima+Sulpicio;I'm+17+years+old;I'm+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Sulpicio github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117&cache_seconds=60" alt="Vinicius Sulpicio github stats" />
 
-  <img width="41%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117&cache_seconds=60" />
 </div>
 
 ### Main Skills:
@@ -58,4 +58,5 @@
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+
 
