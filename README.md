@@ -1,62 +1,93 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Olá, eu sou o </b><a href="https://github.com/Viniciusulpicio">Vinicius Sulpicio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Vinicius+Lima+Sulpicio;I'm+17+years+old;I'm+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> ***Sobre Mim***
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117&cache_seconds=60" alt="Vinicius Sulpicio github stats" />
+<img align="right" width="250px" alt="GIF Hacker" src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif"/>
 
-  <img width="41%" height="195px" src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117&cache_seconds=60" />
-</div>
-
-### Main Skills:
-
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Cloud](https://img.shields.io/badge/-Cloud_Computing-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117)&nbsp;
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
-![Replit](https://img.shields.io/badge/-Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
-
-### Currently Learning:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFFF00&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)&nbsp;
-![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)&nbsp;
-
-### Let's Connect:
+<p>
+  Sou um estudante de <strong>Desenvolvimento de Sistemas</strong> no SENAI, com 17 anos e muita paixão por tecnologia. Estou sempre em busca de expandir meus conhecimentos em desenvolvimento e explorar novas tecnologias para criar soluções criativas e eficientes.
+</p>
+<ul>
+  <li> Atualmente aprimorando minhas habilidades em <strong>JavaScript, TypeScript e React</strong>.</li>
+  <li> Buscando oportunidades para participar de projetos desafiadores.</li>
+  <li> Sinta-se à vontade para se conectar! Adoro trocar conhecimento e ajudar.</li>
+  <li> Fale comigo pelo e-mail: <strong><a href="mailto:viniciusulpicio@gmail.com">viniciusulpicio@gmail.com</a></strong></li>
+</ul>
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinicius-lima-sulpicio-935b16288/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:viniciusulpicio@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/47978460-4246-4132-bae7-a30decdd2c00?locale=pt_BR" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Viniciusulpicio&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
   </a>
 </div>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="mailto:viniciusulpicio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/vinicius-lima-sulpicio-935b16288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/47978460-4246-4132-bae7-a30decdd2c00?locale=pt_BR"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=black" /></a>
+</div>
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  ***Minha Tech Stack***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="right" width="320px" alt="GIF Matrix" src="https://media1.tenor.com/m/8_I_g_ee9r0AAAAC/matrix-digital-rain.gif"/>
 
+<div align="left">
+  <p>
+    <strong>Linguagens de Programação:</strong><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,dart" alt="Linguagens">
+  </p>
+  <p>
+    <strong>Frontend Development:</strong><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,flutter" alt="Frontend">
+  </p>
+  <p>
+    <strong>Backend & Banco de Dados:</strong><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,workbench" alt="Backend e BD">
+  </p>
+  <p>
+    <strong>Infraestrutura & Plataformas:</strong><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,gcp" alt="Ferramentas e Plataformas">
+  </p>
+</div>
+<br>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/sound-wave.gif" width="35">  ***O que estou ouvindo agora***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/y4rphduz137f3egh3mrezm364">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="320">
+  </a>
+</div>
+<br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ***Minhas Estatísticas***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=33A2FF&icon_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Vinicius Sulpicio" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viniciusulpicio&theme=tokyonight&hide_border=true" alt="Viniciusulpicio streak" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+</td>
+</tr>
+</table>
+</p>
+<br>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=Viniciusulpicio&style=for-the-badge&label=PROFILE+VIEWS&color=000000">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
