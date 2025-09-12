@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/y4rphduz137f3egh3mrezm364">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="320">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="250">
   </a>
 </div>
 <br>
@@ -91,3 +91,4 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
