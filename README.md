@@ -61,14 +61,13 @@
 <div align="center">
 <a href="https://www.last.fm/user/Viniciusulpicio" target="_blank">
   <img 
-    src="https://spotify-github-profile.vercel.app/api/lastfm?user=Viniciusulpicio&theme=dark&bg_color=121212&bar_color=1DB954&border_radius=12" 
+    src="https://lastfm-card.vercel.app/api?user=viniciussulpicio&theme=dark&bg=121212&color=1DB954&border_radius=12&font=Sans&show_scrobble_count=false" 
     alt="Última música ouvida" 
-    width="300">
+    width="300"
+    style="box-shadow: 0 4px 12px rgba(0,0,0,0.5); transition: transform 0.3s; border-radius:12px;"
+    onmouseover="this.style.transform='scale(1.05)';"
+    onmouseout="this.style.transform='scale(1)';">
 </a>
-
-
-
-
 </div>
 <br>
 
@@ -98,6 +97,7 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 
 
