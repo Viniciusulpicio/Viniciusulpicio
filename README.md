@@ -1,4 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/43eba736-a87c-4f6f-b5aa-2378a98172f3" width="1024" height="572" alt="Vinicius Sulpicio - Setup Pixel Art" style="border-radius: 10px;">
+</div>
+<br>
+
 <h1><b>Olá, eu sou o </b><a href="https://github.com/Viniciusulpicio">Vinicius Sulpicio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
@@ -91,3 +97,4 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
