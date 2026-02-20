@@ -1,8 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/43eba736-a87c-4f6f-b5aa-2378a98172f3" width="1024" height="572" alt="Vinicius Sulpicio - Setup Pixel Art" style="border-radius: 10px;">
-</div>
 <br>
 
 <h1><b>Olá, eu sou o </b><a href="https://github.com/Viniciusulpicio">Vinicius Sulpicio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -64,11 +61,13 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/sound-wave.gif" width="35"> O que estou ouvindo agora
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y4rphduz137f3egh3mrezm364&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="350">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="350" align="middle">
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/67286306-3c45-41db-95b1-aeef360254db" width="400" alt="Vinicius Sulpicio - Setup Pixel Art" style="border-radius: 10px;" align="middle">
+</p>
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Minhas Estatísticas
@@ -76,16 +75,13 @@
 <br>
 
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=33A2FF&icon_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Vinicius Sulpicio" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
-</td>
-</tr>
-</table>
+  <a href="https://github.com/Viniciusulpicio">
+    <img src="https://github-readme-stats-rmcl.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=33A2FF&icon_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Vinicius Sulpicio" align="middle" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Viniciusulpicio">
+    <img src="https://github-readme-stats-rmcl.vercel.app/api/top-langs/?username=Viniciusulpicio&layout=compact&hide_border=true&title_color=33A2FF&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" align="middle" />
+  </a>
 </p>
 <br>
 
@@ -97,4 +93,3 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
