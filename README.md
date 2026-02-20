@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y4rphduz137f3egh3mrezm364&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="350" align="middle">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=y4rphduz137f3egh3mrezm364&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" width="350" align="middle">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/67286306-3c45-41db-95b1-aeef360254db" width="400" alt="Vinicius Sulpicio - Setup Pixel Art" style="border-radius: 10px;" align="middle">
@@ -93,3 +93,4 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
