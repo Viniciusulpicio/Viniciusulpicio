@@ -44,16 +44,17 @@
     <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,dart" alt="Linguagens">
   </p>
   <p>
-    <strong>Frontend Development:</strong><br>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,react,flutter" alt="Frontend">
+    <strong>Frontend Development & UI/UX:</strong><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,react,flutter,figma" alt="Frontend">
   </p>
   <p>
     <strong>Backend & Banco de Dados:</strong><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" alt="Backend e BD">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,sequelize,prisma" alt="Backend e BD">
   </p>
   <p>
     <strong>Ferramentas & Plataformas:</strong><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,gcp" alt="Ferramentas e Plataformas">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,arch,windows,linux,gcp,notion" alt="Ferramentas e Plataformas">
+    <br><br>
   </p>
 </div>
 <br>
@@ -93,4 +94,3 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
